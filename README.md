@@ -5,6 +5,9 @@ An AI-powered knowledge base layer inside Slack — upload documents, ask questi
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Slack](https://img.shields.io/badge/Slack-Bot-purple)
 ![LLM](https://img.shields.io/badge/LLM-Groq%20Llama%203.3-green)
+![Hackathon](https://img.shields.io/badge/🏆%20Built%20at-Hackathon-orange)
+
+> **🚀 Built at a Hackathon** — This project was conceived and built during a hackathon sprint.
 
 ---
 
