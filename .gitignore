@@ -1,0 +1,24 @@
+# Slack Knowledge Base Bot
+
+# Dependencies
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+
+# Vector store data
+chroma_db/
+
+# Temp files
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+slack-bolt
+slack-sdk
+langchain-groq
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+chromadb
+pypdf
+python-docx
+beautifulsoup4
+python-dotenv
+requests
+sentence-transformers
